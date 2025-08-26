@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="">
       <Button>hasdasdassi</Button>
-      didididi야야야
+      TEST
     </div>
   );
 }
